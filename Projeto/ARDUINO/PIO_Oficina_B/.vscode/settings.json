@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/juliopolski/.platformio/penv/bin:/Users/juliopolski/.platformio/penv:/Users/juliopolski/esp/esp-idf/tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
